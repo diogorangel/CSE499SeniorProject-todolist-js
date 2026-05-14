@@ -1,6 +1,6 @@
-# Overview CSE 499 Senior Project- Web-Based To-Do List
+# Overview CSE 499 Senior Project- Web-Based To-Do List and Web View Exercises Video
 
-# Author : Diogo Rangel Dos Santos
+# Author : Diogo Rangel Dos Santos (@_diogorangel) and Leticia Mahomed da Silva (@_LetMahomed)
 
 ## Overview
 # Task Card Manager - WebApp (Java Edition)
