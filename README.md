@@ -53,3 +53,8 @@ Link para abrir o site: http://localhost:8080/Todolist.html
 * Add "Local Storage" so tasks stay even after refreshing the page.
 * Add a "Clear All" button.
 * Implement task categories (Work, Personal, etc.).
+
+## Favorite quote Diogo Rangel
+* I am I in circustances. If I don't save them, I cannot save myself- José Y Ortega
+
+* Moses 1:13,17 (...)"thou? For behold, I am a son of God, in the similitude of his Only Begotten; and where is thy glory, that I should worship thee?(...)he also gave me commandments when he called unto me out of the burning bush, saying: Call upon God in the name of mine Only Begotten, and worship me."
