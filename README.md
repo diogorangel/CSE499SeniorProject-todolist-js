@@ -53,9 +53,3 @@ Link para abrir o site: http://localhost:8080/Todolist.html
 * Add "Local Storage" so tasks stay even after refreshing the page.
 * Add a "Clear All" button.
 * Implement task categories (Work, Personal, etc.).
-
-## Leticia's Favorite Quote 
-* Genesis 18:14
-* Is anything too hard for the Lord? I will return to you at the appointed time next year, and Sarah will have a son.
-* There are a lot of things that are hard for me, but I like to think about this scripture, cause no miracle is too hard for the Lord, His plan will happen. 
-
